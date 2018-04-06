@@ -5,7 +5,7 @@ test('Reverse function exists', () => {
 });
 
 test('Reverse reverses a string', () => {
-  expect(reverse('abcd')).toEqual('dcba');
+  expect(reverse('apple')).toEqual('elppa');
 });
 
 test('Reverse reverses a string', () => {
